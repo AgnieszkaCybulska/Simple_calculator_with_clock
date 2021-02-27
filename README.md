@@ -11,8 +11,8 @@ This program is a calculator that allows you to perfom the following calculation
 * multiplication
 * division
 * modulo operations
-<p>It is also a digital clock that display the current time.
-It is possible to enter characters using buttons or the keyboard.
+<p>It is also a digital clock that display the current time.<br>
+It is possible to enter characters using buttons or the keyboard.<br>
 The user can change the background image or buttons color.</p>
 
 ## Overview
